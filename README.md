@@ -9,7 +9,7 @@ This repository documents my learning journey through various machine learning c
 
 
 ## Learning Resources
-- 100 Days of ML by campusX
+- 100 Days of ML by campusX on Youtube
 
 
 ## Progress Timeline
